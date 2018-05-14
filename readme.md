@@ -1,1 +1,1 @@
-These are the solutions to the algorithm problem in c++ in hackerrank
+These are the solutions to the algorithm-->warmup problem in c++/javascript in hackerrank
