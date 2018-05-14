@@ -1,1 +1,1 @@
-This is the solution to the staircase problem in c++
+These are the solutions to the algorithm problem in c++ in hackerrank
