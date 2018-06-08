@@ -1,0 +1,22 @@
+{
+  "name": "warmup",
+  "version": "1.0.0",
+  "description": "These are the solutions to the algorithm-->warmup problem in c++/javascript in hackerrank",
+  "main": "birthdaycake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kb2232/Hackerrank-algorithms.git"
+  },
+  "author": "kunle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kb2232/Hackerrank-algorithms/issues"
+  },
+  "homepage": "https://github.com/kb2232/Hackerrank-algorithms#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
